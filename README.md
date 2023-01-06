@@ -1,0 +1,1 @@
+# UAS-IR_Analisis-Sentimen-Penggunaan-Peduli-Lindungi-Menggunakan-Algoritma-Naive-Bayes-dan-SVM
