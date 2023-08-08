@@ -6,5 +6,8 @@
 
 - Projek ini dibuat pada tahun 2021.
 
+![image](https://github.com/jihanKamilah/UAS-IR_Analisis-Sentimen-Penggunaan-Peduli-Lindungi-Menggunakan-Algoritma-Naive-Bayes-dan-SVM/assets/79673174/843ad678-1bd0-4184-8dc4-f6f68f76a587)
+
 Saya juga mempublikasikan proyek ini ke platform Medium dalam bentuk lebih singkat namun tetap menjelaskan segala poin penjelasan dalam laporan ilmiah dan kode program. Berikut Link artikel Medium:
+
 https://medium.com/@jihankamilah/analisis-sentiment-terhadap-penggunaan-aplikasi-peduli-lindungi-pada-media-sosial-twitter-dengan-3c1fd0c444c3
