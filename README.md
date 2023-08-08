@@ -6,7 +6,7 @@
 
 - Projek ini dibuat pada tahun 2021.
 
-![image](https://github.com/jihanKamilah/UAS-IR_Analisis-Sentimen-Penggunaan-Peduli-Lindungi-Menggunakan-Algoritma-Naive-Bayes-dan-SVM/assets/79673174/843ad678-1bd0-4184-8dc4-f6f68f76a587)
+![image](https://github.com/jihanKamilah/UAS-IR_Analisis-Sentimen-Penggunaan-Peduli-Lindungi-Menggunakan-Algoritma-Naive-Bayes-dan-SVM/assets/79673174/2a61409e-d52f-4263-8919-a8aedbe0b458)
 
 Saya juga mempublikasikan proyek ini ke platform Medium dalam bentuk lebih singkat namun tetap menjelaskan segala poin penjelasan dalam laporan ilmiah dan kode program. Berikut Link artikel Medium:
 
